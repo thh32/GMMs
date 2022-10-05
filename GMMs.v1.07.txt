@@ -8,7 +8,7 @@ MF0003	pectin degradation I
 K01051
 K01184,K01213	K18650
 ///
-MF0004	pectine degradation II
+MF0004	pectin degradation II
 K01051
 K18650
 K01728	K19551	K01731
